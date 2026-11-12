@@ -1,0 +1,22 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos de configuração privados
+.env
+.env.*
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Cache do jogo
+_beatmap_ritmo_v7.json
+
+cache_audio/
+musicas/
+musicas/
