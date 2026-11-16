@@ -1,1 +1,6 @@
+pygame
+opencv-python
+librosa
+numpy
+moviepy
 websockets
